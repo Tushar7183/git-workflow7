@@ -4,4 +4,4 @@ variable "bucket" {
 
 variable "tags" {
   type = list(any)
-}
+}  
